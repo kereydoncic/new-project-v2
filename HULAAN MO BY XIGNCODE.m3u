@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="KAPAMILYA" tvg-id="kapamilya/animax" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] ANIMAX
+http://45.89.149.2/stream/kapamilya/animax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:2 group-title="KAPAMILYA" tvg-id="kapamilya/gma" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] GMA
+http://45.89.149.2/stream/kapamilya/gma/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:3 group-title="KAPAMILYA" tvg-id="kapamilya/gtv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] GTV
+http://45.89.149.2/stream/kapamilya/gtv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:4 group-title="KAPAMILYA" tvg-id="kapamilya/iheartmovie" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] I HEART MOVIE
+http://45.89.149.2/stream/kapamilya/iheartmovie/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:5 group-title="KAPAMILYA" tvg-id="kapamilya/kapamilyachannel" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] KAPAMILYA CHANNEL
+http://45.89.149.2/stream/kapamilya/kapamilyachannel/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:6 group-title="KAPAMILYA" tvg-id="kapamilya/nbaphilippines" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] NBA PHILIPPINES
+http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:7 group-title="KAPAMILYA" tvg-id="kapamilya/rptv" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] rptv
+http://45.89.149.2/stream/kapamilya/rptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:8 group-title="KAPAMILYA" tvg-id="kapamilya/tmc" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] TMC
+http://45.89.149.2/stream/kapamilya/tmc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:9 group-title="KAPAMILYA" tvg-id="kapamilya/tvnmoviespinoy" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] TVN MOVIES PINOY
+http://45.89.149.2/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
